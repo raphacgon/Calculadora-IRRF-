@@ -42,4 +42,4 @@ O programa realiza o seguinte cálculo passo a passo:
 - Implementar suporte para outros cálculos jurídicos.
 
 ---
-raphacgon
+RAPHACGON
